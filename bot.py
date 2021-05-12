@@ -2,7 +2,7 @@ import tweepy
 import time
 
 consumer_key = '# api key'
-consumer_secret = '#api key secret' 
+consumer_secret = '# api key secret' 
 
 key = '# acces token'
 secret = '# acces token secret'
